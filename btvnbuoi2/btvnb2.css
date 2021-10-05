@@ -1,0 +1,30 @@
+#logo{
+    float:left;
+    width: 300px;
+    height: 150px;
+    background-image: url(logo.jpg);
+}
+#name{
+    margin-left: 300px;
+    height: 150px;
+    width: 700px;
+    text-align: center;
+    margin-top: 20px;
+}
+h1{
+    color: cornflowerblue;
+}
+#menu li{
+    display: inline-block;
+    margin-inline-end: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color:dodgerblue;
+    text-decoration: underline;
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+p{
+    margin-left: 20px;
+}
